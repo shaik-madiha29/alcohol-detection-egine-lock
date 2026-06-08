@@ -47,8 +47,7 @@ This project uses an Arduino microcontroller and an MQ-3 alcohol sensor to conti
 
 ## 🔌 Circuit Diagram
 
-> *(Add your circuit diagram image here)*
-> Upload your image and replace this line with: `![Circuit Diagram](circuit_diagram.png)`
+> ![Circuit Diagram](circuit_diagram.png)`
 
 ---
 
@@ -83,7 +82,7 @@ if (sensorValue > THRESHOLD) {
 
 ## 📷 Demo
 
-> *(Add a photo or video of your working project here)*
+> https://drive.google.com/file/d/1o6xRzPoTGX63g5ihlTh3CuXUsZ6p85CW/view?usp=drivesdk
 
 ---
 
@@ -92,7 +91,7 @@ if (sensorValue > THRESHOLD) {
 **Shaik Madiha**
 ECE Graduate | Embedded Systems | IoT | Arduino | C++
 - 📧 madihashaik82@email.com
-- 🔗 [LinkedIn](https://linkedin.com/in/shaik-madiha)
+- 🔗 [LinkedIn]https://www.linkedin.com/in/shaik-madiha-23996927b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 💻 [GitHub](https://github.com/shaik-madiha)
 
 ---
