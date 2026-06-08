@@ -83,6 +83,7 @@ if (sensorValue > THRESHOLD) {
 ## 📷 Demo
 
 > https://drive.google.com/file/d/1o6xRzPoTGX63g5ihlTh3CuXUsZ6p85CW/view?usp=drivesdk
+>[simulation]https://wokwi.com/projects/461986151576236033
 
 ---
 
